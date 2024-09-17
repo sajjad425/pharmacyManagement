@@ -38,7 +38,7 @@ This C program provides a simple, user-friendly interface to manage your pharmac
 3. **Compile the source code** using GCC or any C compiler:
 
    ```bash
-   gcc pharmacy_management.c -o pharmacy_management
+   gcc "Pharmacy Management System.c" -o pharmacy_management
 
 ## Disclaimer
 
