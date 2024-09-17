@@ -39,3 +39,9 @@ This C program provides a simple, user-friendly interface to manage your pharmac
 
    ```bash
    gcc pharmacy_management.c -o pharmacy_management
+
+## Disclaimer
+
+This project is created for **educational purposes only**. It may not include all the functionalities required for a fully operational pharmacy management system. Users are advised to implement proper security measures, data management protocols, and error handling for real-world applications. 
+
+Use this project at your own discretion, and be aware that handling sensitive information, such as customer data, requires adherence to privacy laws and best practices.
